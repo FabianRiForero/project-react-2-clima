@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project-react-2-clima/static/css/main.893c9b50.css",
+    "main.js": "/project-react-2-clima/static/js/main.d31445cd.js",
+    "index.html": "/project-react-2-clima/index.html",
+    "main.893c9b50.css.map": "/project-react-2-clima/static/css/main.893c9b50.css.map",
+    "main.d31445cd.js.map": "/project-react-2-clima/static/js/main.d31445cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.893c9b50.css",
+    "static/js/main.d31445cd.js"
+  ]
+}
